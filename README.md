@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Guidhopper
 - 👀 I’m interested in ... learning how to code lol
-- 🌱 I’m currently trying to learn ... HTML and/or Java to start
-- 💞️ I’m looking to collaborate on ... nothing at the momemnt lol
-- 📫 How to reach me ... DM me I guess (I just made this idk if it has a DM/PM feature, I'd assume it does)
+- 🌱 I’m currently in school learning Java
+- 📫 How to reach me ... DM me
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Big NHL fan, been getting more into NFL over recent years
 
